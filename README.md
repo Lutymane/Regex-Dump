@@ -14,3 +14,12 @@ var id = arr[1] || arr[2];
 console.log(id);
 //id stores yt video id
 ```
+
+## Match Classic Steam Keys
+
+(From Batch Keys Activator)
+
+```javascript
+var str = 'SAS42-228BO-1488CE';
+keys = str.match(/[A-z0-9]{5}(?:(?:-[A-z0-9]{5}){4}|(?:-[A-z0-9]{5}){2})/gi);
+```
